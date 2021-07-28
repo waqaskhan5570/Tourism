@@ -2,12 +2,12 @@ import React from "react";
 import "../App.css";
 import { Button } from "./Button";
 import "./HeroSection.css";
-// import Img1 from "../images/img-1.jpg";
+import coverVid from "../assets/videos/video-1.mp4";
 
 function HeroSection() {
   return (
     <div className="hero-container">
-      <video src="./videos/video-1.mp4" type="video/mp4" autoPlay loop muted />
+      <video src={coverVid} type="video/mp4" autoPlay loop muted />
       <h1>LETS GO?</h1>
       <p>Get on the bus already...!!</p>
 

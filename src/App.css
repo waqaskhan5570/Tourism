@@ -17,7 +17,7 @@
 }
 
 .services {
-  background-image: url("./backgroundImages/services.png");
+  background-image: url("./assets/images/services.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -27,7 +27,7 @@
 }
 
 .products {
-  background-image: url("./backgroundImages/products.jpg");
+  background-image: url("./assets/images/products.jpg");
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -36,7 +36,7 @@
 }
 
 .sign-up {
-  background-image: url("./backgroundImages/signup.jpg");
+  background-image: url("./assets/images/signup.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
