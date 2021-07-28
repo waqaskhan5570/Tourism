@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Tourism/static/css/main.a3ed8724.chunk.css",
+    "main.js": "/Tourism/static/js/main.94ebe9bb.chunk.js",
+    "main.js.map": "/Tourism/static/js/main.94ebe9bb.chunk.js.map",
+    "runtime-main.js": "/Tourism/static/js/runtime-main.f3d72066.js",
+    "runtime-main.js.map": "/Tourism/static/js/runtime-main.f3d72066.js.map",
+    "static/js/2.255ccc73.chunk.js": "/Tourism/static/js/2.255ccc73.chunk.js",
+    "static/js/2.255ccc73.chunk.js.map": "/Tourism/static/js/2.255ccc73.chunk.js.map",
+    "static/js/3.d77a8ef3.chunk.js": "/Tourism/static/js/3.d77a8ef3.chunk.js",
+    "static/js/3.d77a8ef3.chunk.js.map": "/Tourism/static/js/3.d77a8ef3.chunk.js.map",
+    "index.html": "/Tourism/index.html",
+    "static/css/main.a3ed8724.chunk.css.map": "/Tourism/static/css/main.a3ed8724.chunk.css.map",
+    "static/js/2.255ccc73.chunk.js.LICENSE.txt": "/Tourism/static/js/2.255ccc73.chunk.js.LICENSE.txt",
+    "static/media/DEOSAI.jpg": "/Tourism/static/media/DEOSAI.2184a374.jpg",
+    "static/media/Kumrat-Valley-KPK.jpg": "/Tourism/static/media/Kumrat-Valley-KPK.dfaa0558.jpg",
+    "static/media/MargallaHills.jpg": "/Tourism/static/media/MargallaHills.76ef1916.jpg",
+    "static/media/Miranjani-Track.jpg": "/Tourism/static/media/Miranjani-Track.1c421c53.jpg",
+    "static/media/Naran-Kaghan-Waterfalls.jpg": "/Tourism/static/media/Naran-Kaghan-Waterfalls.bea00926.jpg",
+    "static/media/Shingrai-Waterfall.jpg": "/Tourism/static/media/Shingrai-Waterfall.e60a940c.jpg",
+    "static/media/hingol-park.jpg": "/Tourism/static/media/hingol-park.26e76e17.jpg",
+    "static/media/islamabad.jpg": "/Tourism/static/media/islamabad.a922b734.jpg",
+    "static/media/lahore.jpg": "/Tourism/static/media/lahore.5f498d93.jpg",
+    "static/media/App.css": "/Tourism/static/media/signup.a88169ba.jpg",
+    "static/media/video-1.59e75226.mp4": "/Tourism/static/media/video-1.59e75226.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3d72066.js",
+    "static/js/2.255ccc73.chunk.js",
+    "static/css/main.a3ed8724.chunk.css",
+    "static/js/main.94ebe9bb.chunk.js"
+  ]
+}
